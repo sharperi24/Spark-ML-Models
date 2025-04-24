@@ -25,7 +25,7 @@ Groups wholesale customers into segments based on spending habits (dairy, frozen
 ### 3. Movie Recommendation Engine  
 **What it does**:  
 Suggests personalized movies based on user ratings.  
-This system recommends movies to users based on their past ratings using collaborative filtering. It:
+**Key Features**: 
 - Predicts how users would rate unseen movies
 - Provides personalized top-5 recommendations
 - Measures recommendation accuracy (RMSE score)
