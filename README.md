@@ -1,4 +1,3 @@
-# Spark-ML-Models
 # Spark ML Models: Classification, Clustering & Recommendation
 
 ## 🧠 Model Descriptions
